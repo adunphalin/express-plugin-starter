@@ -1,0 +1,13 @@
+{
+"name": "express-plugin-starter",
+"version": "0.1.0",
+"description": "Starter kit for building publishable Express.js middleware plugins and a dynamic loader",
+"main": "index.js",
+"scripts": {
+"test": "node samples/sample-app.js",
+"lint": "echo \"no linter configured\""
+},
+"keywords": ["express", "middleware", "plugin", "extension"],
+"license": "MIT",
+"engines": { "node": ">=14" }
+}
